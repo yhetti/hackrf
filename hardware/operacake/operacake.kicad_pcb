@@ -3,7 +3,7 @@
   (general
     (links 570)
     (no_connects 1)
-    (area 59.809499 99.809499 180.190501 175.190501)
+    (area 57.771558 99.809499 182.228443 175.190501)
     (thickness 1.6002)
     (drawings 148)
     (tracks 1199)
@@ -31,7 +31,7 @@
   )
 
   (setup
-    (last_trace_width 0.3048)
+    (last_trace_width 0.2794)
     (user_trace_width 0.1524)
     (user_trace_width 0.2032)
     (user_trace_width 0.254)
@@ -70,7 +70,7 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFEFF7F)
     (pcbplotparams
-      (layerselection 0x00008_00000000)
+      (layerselection 0x012ff_80000007)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.150000)
@@ -84,7 +84,7 @@
       (hpglpenoverlay 0)
       (psnegative false)
       (psa4output false)
-      (plotreference false)
+      (plotreference true)
       (plotvalue false)
       (plotinvisibletext false)
       (padsonsilk false)
@@ -4425,7 +4425,7 @@
   (gr_text 1 (at 164.9 101.3) (layer C1F)
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
   )
-  (gr_text "4 October 2016" (at 113.58 111.17) (layer F.SilkS)
+  (gr_text "2 March 2018" (at 113.58 111.17) (layer F.SilkS)
     (effects (font (size 1.778 1.27) (thickness 0.3048)))
   )
   (gr_text P9 (at 98.1 125.47) (layer F.SilkS)
